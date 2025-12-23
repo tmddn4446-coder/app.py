@@ -8,7 +8,7 @@ Original file is located at
 """
 
 
-!npm install localtunnel
+
 !streamlit run app.py &>/dev/null& \
   npx localtunnel --port 8501
 
