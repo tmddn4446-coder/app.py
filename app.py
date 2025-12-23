@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1U06PJKlVC51l9v7moX16loZklz2T3HZu
 """
 
-!pip install streamlit
-
-!pip install seaborn
 
 !npm install localtunnel
 !streamlit run app.py &>/dev/null& \
